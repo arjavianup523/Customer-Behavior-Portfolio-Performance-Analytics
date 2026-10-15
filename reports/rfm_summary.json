@@ -1,0 +1,15 @@
+{
+  "reference_date": "2011-12-10",
+  "customers_segmented": 4338,
+  "total_customer_revenue": 8887208.89,
+  "segments": 7,
+  "segment_customer_counts": {
+    "At Risk": 663,
+    "Champions": 941,
+    "Hibernating": 1072,
+    "Loyal Customers": 504,
+    "Needs Attention": 374,
+    "Potential Loyalists": 481,
+    "Recent Customers": 303
+  }
+}

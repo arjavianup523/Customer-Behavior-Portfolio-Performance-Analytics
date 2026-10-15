@@ -1,0 +1,14 @@
+{
+  "source_rows": 541909,
+  "duplicate_rows_removed": 5268,
+  "cancelled_invoice_rows_identified": 9251,
+  "rows_after_deduplication": 536641,
+  "clean_sales_rows": 392692,
+  "rows_excluded_from_sales_analysis": 143949,
+  "unique_customers": 4338,
+  "unique_invoices": 18532,
+  "total_revenue": 8887208.89,
+  "date_min": "2010-12-01 08:26:00",
+  "date_max": "2011-12-09 12:50:00",
+  "missing_values_in_clean_data": {}
+}
